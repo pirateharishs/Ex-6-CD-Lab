@@ -1,7 +1,7 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
 ## NAME: HARISH S
-## REG-NO:212223230071
+## REG-NO: 212223230071
 ## Date : 12/05/25
 # Aim :
 To write a program to implement the back end of the compiler.
